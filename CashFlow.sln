@@ -26,6 +26,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validators.Tests", "tests\Validators.Tests\Validators.Tests.csproj", "{7AC88585-D379-4747-9643-653C410F5832}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTestUtilities", "tests\CommonTestUtilities\CommonTestUtilities.csproj", "{AD12C698-AAA3-4047-83C7-CE8738F76E24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +62,10 @@ Global
 		{7AC88585-D379-4747-9643-653C410F5832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AC88585-D379-4747-9643-653C410F5832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AC88585-D379-4747-9643-653C410F5832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD12C698-AAA3-4047-83C7-CE8738F76E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD12C698-AAA3-4047-83C7-CE8738F76E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD12C698-AAA3-4047-83C7-CE8738F76E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD12C698-AAA3-4047-83C7-CE8738F76E24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +78,7 @@ Global
 		{630B4D19-655A-4318-8345-0AC2DFBA73F2} = {E3F99D71-28A9-429A-8A98-312018D64035}
 		{AEED54E1-9A82-4CB7-8E95-36E6CC56A342} = {E3F99D71-28A9-429A-8A98-312018D64035}
 		{7AC88585-D379-4747-9643-653C410F5832} = {1BDF4455-4DBC-4494-A93A-CE1E3A767902}
+		{AD12C698-AAA3-4047-83C7-CE8738F76E24} = {1BDF4455-4DBC-4494-A93A-CE1E3A767902}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45D8E4FD-757B-4C09-958C-12C0B11D97F2}

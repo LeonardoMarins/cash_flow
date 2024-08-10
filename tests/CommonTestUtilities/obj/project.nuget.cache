@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y5M3rKMlSRBk+o5YvvVxHU6RfR0VBD04GddAumO6QTRHqLVyM3ROwrZGAHk6Vv/Cs07XSlozg65afuWUKVg1YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Rocketseat\\C#\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marin\\.nuget\\packages\\bogus\\35.6.0\\bogus.35.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

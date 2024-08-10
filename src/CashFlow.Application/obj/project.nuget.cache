@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "T1NvMoMWR1/qcZ1ZZMA1DRLco5xBZWJjOj/sx9xOlIdsHYQzN6WtVJ3Kq1gkxFnKRbEnMJ8rFSbJIOqncFhp+g==",
+  "dgSpecHash": "DCbpE89jLmgALzUT+I+VsWYnAgapath2s3HG+BTSOwgwOCddzVSwjivuc2QFScEExuYpikH3LQ5F1aysfd6EdQ==",
   "success": true,
   "projectFilePath": "C:\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\marin\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+    "C:\\Users\\marin\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\marin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
