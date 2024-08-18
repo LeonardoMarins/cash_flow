@@ -9,5 +9,6 @@ namespace CashFlow.Domain.Repositories.Expenses
         Task<List<Expense>?> GetAll();
 
         Task<Expense> GetById(int id);
+        Expense Get(int id);
     }
 }

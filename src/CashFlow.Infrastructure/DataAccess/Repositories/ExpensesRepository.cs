@@ -27,5 +27,10 @@ namespace CashFlow.Infrastructure.DataAccess.Repositories
             return await _dbContext.Expenses.FirstOrDefaultAsync(x => x.Id == id);
         }
 
+        public Expense Get(int id)
+        {
+            return _dbContext.Expenses.FirstOrDefault(x => x.Id == id);
+        }
+
     }
 }
