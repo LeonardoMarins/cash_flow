@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+nNYFcmrcg1kQx1COMgpr/LmiKU5l80lG42DnhRXmqDCQbbTP0mFd4mudPIFm5oXQTtlcLqmqWdMrWkOSqRhdQ==",
+  "dgSpecHash": "aZVkh0e4PqRy1mgX+VI3WeOPwgY8Eg5IprMjQoMHmdvHQrlwEDTeeVom0Z4tnHnr9rbyk3Vk6Ol+yX9Wt3oUlg==",
   "success": true,
   "projectFilePath": "C:\\Rocketseat\\C#\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\marin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

@@ -9,3 +9,4 @@ C:\Rocketseat\C#\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.C
 C:\Rocketseat\C#\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
 C:\Rocketseat\C#\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
 C:\Rocketseat\C#\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll
+C:\Rocketseat\C#\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.sourcelink.json

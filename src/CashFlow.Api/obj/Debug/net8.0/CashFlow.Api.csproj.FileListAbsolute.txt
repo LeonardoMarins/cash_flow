@@ -45,3 +45,9 @@ C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.pdb
 C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.genruntimeconfig.cache
 C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\ref\CashFlow.Api.dll
 C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.sourcelink.json
+C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\MySqlConnector.dll
+C:\Rocketseat\C#\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
