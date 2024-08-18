@@ -32,5 +32,16 @@ namespace CashFlow.Infrastructure.DataAccess.Repositories
             return _dbContext.Expenses.FirstOrDefault(x => x.Id == id);
         }
 
+        public async Task Delete(int id)
+        {
+            var entityToDelete = await _dbContext.Expenses.FirstOrDefaultAsync(x => x.Id == id);
+
+            if (entityToDelete != null)
+            {
+                _dbContext.Expenses.Remove(entityToDelete);
+            }
+        }
+
+
     }
 }

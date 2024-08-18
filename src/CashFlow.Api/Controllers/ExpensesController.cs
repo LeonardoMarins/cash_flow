@@ -1,4 +1,5 @@
-﻿using CashFlow.Application.UseCases.Expenses.GetAll;
+﻿using CashFlow.Application.UseCases.Expenses.Delete;
+using CashFlow.Application.UseCases.Expenses.GetAll;
 using CashFlow.Application.UseCases.Expenses.GetById;
 using CashFlow.Application.UseCases.Expenses.Register;
 using CashFlow.Application.UseCases.Expenses.Update;
@@ -53,5 +54,17 @@ namespace CashFlow.Api.Controllers
 
             return Ok(result);
         }
+
+        [HttpDelete]
+        [Route("{id}")]
+        [ProducesResponseType(typeof(ResponseDeleteExpenseJson), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status204NoContent)]
+        public async Task<IActionResult> Delete(int id, [FromServices] IDeleteExpenseUseCase useCase)
+        {
+            await useCase.Execute(id);
+
+            return Ok();
+        }
+
     }
 }
